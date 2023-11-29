@@ -3,3 +3,4 @@
 <p>Input data in my program is dimension of graph's matrix (matrix fill as random generation)</p>
 <p>Some results for example:</p>
 <img src="sample.PNG">
+<p>Source code succesful compile with gcc and masvc compiler</p>
